@@ -1,0 +1,61 @@
+body{
+    background-color: black;
+    color: white;
+    margin-top: 50px;
+}
+
+div form{
+    flex: 1;
+    align-content: center;
+}
+
+h2{
+    padding: 1%;
+}
+
+
+.Ename{
+    bottom: 2px;
+}
+
+.Eposition{
+    position: relative;
+    bottom: 25px;
+    left: 110px;
+    text-align: center;
+    
+}
+
+.EAge{
+    position: relative;
+    bottom: 25px;
+    left: 70px;
+    text-align: center;
+}
+
+input{
+    width: 350px;
+    height: 25px;
+    background-color: black;
+}
+
+#btn{
+    position: relative;
+    top: 30px;
+    left: 10px;
+    width: 120px;
+    height: 40px;
+}
+
+#Another{
+    padding: 2%;
+    position: relative;
+    top: 50px;
+    right: 18px;
+}
+
+#para1{
+    position: relative;
+    top: 30px;
+    left: 10px;
+}
